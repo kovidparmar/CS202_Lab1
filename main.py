@@ -1,3 +1,8 @@
+"""
+A simple calculator program that supports basic arithmetic operations.
+Written to demonstrate Python code structure and pass Pylint checks.
+"""
+
 # calculator.py
 # A simple calculator program with multiple operations
 # Written for demonstration purposes with more than 30 lines of code excluding comments
